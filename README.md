@@ -2,3 +2,4 @@
 
 requirements : pip install websockets
 pip install websocket
+pip install websocket_client
